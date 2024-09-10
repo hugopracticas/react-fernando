@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <FistApp2 /> debe de hacer match con el snapshot 1`] = `
+<div>
+  <div>
+    <h1
+      data-testid="test-title"
+    >
+      Hola Hugo
+    </h1>
+    <h2>
+      Hola, soy Goku
+    </h2>
+    <p
+      data-testid="test-subtitle"
+    >
+      1590
+    </p>
+    <p>
+      {"message":"Hola mundo","title":"Hugo"}
+    </p>
+  </div>
+</div>
+`;

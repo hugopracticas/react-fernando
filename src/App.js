@@ -6,7 +6,11 @@ import CounterApp from "./CounterApp";
 function App() {
   return (
     <div className="App">
-      <CounterApp value={20} />
+      {/*<FirstApp
+        title="Hola Soy Hugo"
+        subTitle="Soy el subtitulo de este componente"
+  />*/}
+      <CounterApp value={100} />
     </div>
   );
 }
